@@ -2,7 +2,6 @@
 #include "BIT_UTILIES.h"
 #include "UART.h"
 #include "UART_prv.h"
-#include "Dio_prv.h"
 
 	u8 USART_REG = 0;
 
