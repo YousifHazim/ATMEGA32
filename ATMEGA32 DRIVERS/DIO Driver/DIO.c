@@ -1,5 +1,6 @@
 #include "Dio.h"
 #include "BIT_UTILIES.h"
+#include "Dio_prv.h"
 
 
 Dio_tenuErrorStatus DIO_enuSetPinValue( u8 Copy_u8PortId , u8 Copy_u8PinId , u8 Copy_u8PinVal){
