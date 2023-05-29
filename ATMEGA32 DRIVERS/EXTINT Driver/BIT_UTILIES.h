@@ -22,17 +22,4 @@
 
 #define TGL_REG(reg)                reg^=~(0)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #endif
