@@ -4,6 +4,7 @@
 
 #include "SPI/SPI.h"
 #include "SPI_prv.h"
+#include "SPI_cfg.h"
 
 void SPI_voidInit(void){
 
